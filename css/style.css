@@ -7,3 +7,11 @@
 html {
     font-family: 'Montserrat', sans-serif;
 }
+
+.container-fluid {
+    border: 1px solid black;
+}
+
+.row {
+    border: 2px solid green;
+}
