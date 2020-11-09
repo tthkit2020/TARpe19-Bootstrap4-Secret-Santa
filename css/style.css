@@ -4,14 +4,11 @@
     --santa-green: #0A9F99;
 }
 
+* {
+    border: 1px solid red;
+}
+
 html {
     font-family: 'Montserrat', sans-serif;
 }
 
-.container-fluid {
-    border: 1px solid black;
-}
-
-.row {
-    border: 2px solid green;
-}
