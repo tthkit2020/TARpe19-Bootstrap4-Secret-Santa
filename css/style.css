@@ -1,0 +1,9 @@
+:root {
+    --santa-red: #A31123;
+    --santa-red-alpha: rgba(163, 17, 34, 0.4);
+    --santa-green: #0A9F99;
+}
+
+html {
+    font-family: 'Montserrat', sans-serif;
+}
